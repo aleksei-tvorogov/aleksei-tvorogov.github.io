@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.revolut.revolut.test",
+    "sha256_cert_fingerprints":
+    ["90:EC:5D:75:11:4E:67:B7:F1:3F:C0:D0:57:85:9B:78:0D:A0:BA:49:E2:22:4C:60:42:7E:D2:EA:00:84:D1:B7"]
+  }
+}]
